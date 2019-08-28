@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TesteDalto</string>
+    <string name="o_que">O que é ?</string>
+    <string name="daltonismo_uma_perturba_o_da_percep_o_visual_caracterizada_pela_incapacidade_de_diferenciar_todas_ou_algumas_cores">
+        Daltonismo é uma perturbação da percepção visual caracterizada pela incapacidade de diferenciar todas ou algumas
+        cores.
+    </string>
+    <string name="fa_a_o_teste">Faça o Teste</string>
+    <string name="teste_1">Teste 1</string>
+    <string name="teste_2">Teste 2</string>
+    <string name="teste_3">Teste 3</string>
+    <string name="resultados">Resultados</string>
+    <string name="r_1">r_1</string>
+    <string name="r_2">r_2</string>
+    <string name="r_3">r_3</string>
+    <string name="verificar">Verificar</string>
+    <string name="r_f">r_f</string>
+</resources>
